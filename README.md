@@ -13,5 +13,5 @@ This repository will host KIPAC's discussion of cosmological blind analysis as i
 * Phil Marshall (@drphilmarshall)
 * Steve Allen (@steven-allen)
 * Risa Wechsler (@rhw)
-* Pat Burchat
+* Pat Burchat (@burchat)
 
